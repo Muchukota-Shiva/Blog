@@ -1,0 +1,80 @@
+<!-- basic skeleton from w3 websites	 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>neeche dekh</title>
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="author" content="Muchukota Shiva">
+
+
+<link rel="stylesheet" href="F:/website/blog/css/style.css">
+
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<!-- this contains the navigation bar of the website -->
+
+ <h1 id="TOP">MUCHU'S MIND DUMP</h1>
+ <p class="desc">Uh yeah I made this website. Thought ill make this <del>because I was bored</del> because I keep on writing whatever is going on in my head in a text file or a piece of paper anyways so why not just put it up online eh</p>
+
+ <ul>
+	<li>
+		<a href="F:/website/blog/webpages/main.html">home</a>
+	</li>
+	<li>
+		<a href="">stuff in my head</a>
+	</li>
+	<li>
+		<a href="">taste in media</a>
+	</li>
+	<li>
+		<a href="">muchu's bizzare misadventures</a>
+	</li>
+	<li>
+		<a href="F:/website/blog/webpages/about.html">about</a>
+	</li>
+</ul>
+
+<div class="smbox">
+<center><p class="head">WHAT AM I LOOKING AT?</p></center>
+ <p>As I wrote above, this is a blog, my blog. I have so much going on in my head all the time I write it down and it helps. One fine afternoon I thought why not just add this in a blog or something and hey here you are now. felt obliged to make a about me page<a href="F:/website/blog/webpages/about.html"> so here you go</a>. Just saying its a lot of text :p
+ </p>
+</div>
+
+<center>###</center>
+
+<div class="smbox">
+<!--script for automatic slideshow-->
+<section>
+	<p>stuff that has been on my mind lately. (ill show it cuz i wrote a script to display a slideshow and it took time)</p>
+	<center>
+		<img class="mySlides" src="F:/website/blog/assets/pics/ponytail3.jpg" width="400" height="255">
+		<img class="mySlides" src="F:/website/blog/assets/pics/summoning2.png" width="400" height="255">
+	</center>
+</section>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() 
+{
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 3000);
+}
+</script>
+</div>
+
+</body>
+</html> 
