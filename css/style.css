@@ -1,0 +1,137 @@
+@font-face {
+	font-family: "Jellyfruit";
+	src: url(F:/website/blog/assets/fonts/jelly/Jelly.ttf);
+}
+@font-face {
+	font-family: "Ancient";
+	src: url(F:/website/blog/assets/fonts/ancient/Ancient.ttf);
+}
+@font-face {
+	font-family: "neon";
+	src: url(F:/website/blog/assets/fonts/neon_led_light/NEONLEDlight.otf);
+}
+body {
+  background-color: #6E6E6E;
+}
+
+/* div */
+div.smbox{
+	background-color: #7E7E7E;
+	width: 1200px;
+	border: 20px #384C17;
+	padding: 80px;
+	margin: 20px;
+	position: relative;
+	animation: mymove 3s;
+	animation-fill-mode: forwards;
+	
+}
+
+/* keyframes */
+
+@keyframes mymove {
+	from{top : 200px;}
+	to {top: 0px;}
+}
+
+/* header tag */
+
+header {
+	background-color: #CBD9D4;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 5px;
+	height: 30px;
+	display: inline-flex;
+	align-items: center;
+	box-shadow: 0 0 25px 0 black;
+}
+
+header * {  
+display: inline;  
+}  
+
+header li {  
+margin: 50px;  
+}  
+
+header li a {  
+font-family: Ancient;
+color: #6050DC;  
+text-decoration: none;  
+}  
+
+/* link values */
+
+a{color: #A3E2AD;}
+
+h1 {
+  color: #BCFD4C;
+  font-family: neon;
+  font-size: 70px;
+  text-align: center;
+}
+
+h3 {
+  font-family: Jellyfruit;
+  text-align: center;
+
+}
+
+p { /*general paragraph settings*/
+  font-family: Jellyfruit;
+  font-size: 19px;
+  text-align: justify;
+}
+
+pre {
+	font-family: Jellyfruit;
+	font-size: 20px;
+}
+
+p.small{
+	font-family: Jellyfruit;
+	font-size: 12px;
+	text-align: left;
+}
+
+p.desc {
+	font-family: Jellyfruit;
+	font-size: 23px;
+	text-align: left;
+}
+p.head {
+	font-family: Jellyfruit;
+	font-size: 23px;
+	text-align: center;
+}
+
+/* navbar creation stuff */
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 5;
+	overflow: hidden;
+	background-color: #CBD9D4;
+	position: static;
+	top: 0;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	font-family: Ancient;
+	display: block;
+	color: #384C17;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #8E9894;
+}
+
