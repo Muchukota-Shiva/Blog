@@ -108,7 +108,7 @@ p.head {
 }
 
 /* navbar creation stuff */
-ul {
+ol {
 	list-style-type: none;
 	margin: 0;
 	padding: 5;
@@ -118,11 +118,11 @@ ul {
 	top: 0;
 }
 
-li {
+ol li {
 	float: left;
 }
 
-li a {
+ol li a {
 	font-family: Ancient;
 	display: block;
 	color: #384C17;
@@ -131,7 +131,34 @@ li a {
 	text-decoration: none;
 }
 
-li a:hover {
+ol li a:hover {
 	background-color: #8E9894;
+}
+
+ul {
+	background: #73A9AD;
+	padding: 30px;
+}
+
+ul li {
+	font-family: Jellyfruit;
+	background: #7377AD;
+	color: #AD9073;
+	padding: 5px;
+	margin-left: 2px;
+}
+
+ul li a {
+	font-family: Jellyfruit;
+	background: #7377AD;
+	color: #AD9073;
+	padding: 10px;
+	margin-left: 2px;
+	display: block;
+}
+
+ul li a:hover {
+	background-color: #ABADCE;
+	display: block;
 }
 
