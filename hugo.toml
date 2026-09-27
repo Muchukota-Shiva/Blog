@@ -8,4 +8,30 @@ theme = "hugo.386"
     mainpagetitle = "Muchu-Blog"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "A glimpse into the mind of SHIVA" 
+    mainpagesubtitle = "Welcome to my personal internet space." 
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Stuff that goes through my head"
+    url = "/thoughts/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Muchu's Bizarre Misadventures"
+    url = "/bizarre/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Taste in Media"
+    url = "/media/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 50

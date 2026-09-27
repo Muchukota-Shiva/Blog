@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>About this on MuchuBlog</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content in About this on MuchuBlog</description>
+		<title>Posts on MuchuBlog</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on MuchuBlog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Sun, 27 Sep 2026 20:47:09 +0530</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My First Post</title>
 				<link>http://localhost:1313/posts/my-first-post/</link>
@@ -25,7 +25,7 @@
 				<link>http://localhost:1313/posts/status-update/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/status-update/</guid>
-				<description>&lt;p&gt;So you have stumbled upon my humble little blog. Lucky you&lt;br&gt;&#xA;This blog is like a diary of sorts where I document a lot of stuff, you&amp;rsquo;ll see.  &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;navigate to the different sections using the menu on top, else go through the categories and tags for fine tuning your search  &lt;br&gt;&#xA;&lt;br&gt;&#xA;feel free to reach out to me. Happy reading :)&lt;/p&gt;</description>
+				<description>&lt;p&gt;Successfully booted up the MS-DOS theme. Site is live locally and looking crisp.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -1,9 +1,10 @@
 ---
 title: "My First Post"
 date: 2026-09-27T20:47:09+05:30
+draft: false
 description: ""
-tags: []
-categories: []
+tags: [deep]
+categories: [Rants, Life_Updates, Tales, Media]
 ---
 
 
@@ -15,5 +16,7 @@ Here is some text.
 
 - One item
 - Another item
+
+it is rather fun learning to do all this. 
 
 ---
