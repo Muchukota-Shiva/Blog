@@ -1,0 +1,11 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "MuchuBlog"
+theme = "hugo.386"
+
+[params]
+    # The name to display as main title in the home page
+    mainpagetitle = "Muchu-Blog"
+
+    # The subtitle to display under the title in the home page
+    mainpagesubtitle = "A glimpse into the mind of SHIVA" 
