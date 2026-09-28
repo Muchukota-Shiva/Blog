@@ -1,21 +1,17 @@
 ---
 title: "My First Post"
 date: 2026-09-27T20:47:09+05:30
-draft: false
+draft: true
 description: ""
-tags: [deep]
-categories: [Rants, Life_Updates, Tales, Media]
+tags: [deep, Misadventures]
+categories: [hmm, Rants, Life_Updates, Tales, Media]
 ---
 
 
 This is my first Hugo post.
 
-## A heading
-
-Here is some text.
-
-- One item
-- Another item
+This is the one thing holding this code together so like yeah dont touch this lol
+`insert smiling friends season 3 episode 1 clip`
 
 it is rather fun learning to do all this. 
 

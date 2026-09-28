@@ -35,3 +35,6 @@ theme = "hugo.386"
     name = "Contact"
     url = "/contact/"
     weight = 50
+
+[markup.goldmark.renderer]
+unsafe = true

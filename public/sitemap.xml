@@ -11,10 +11,16 @@
     <loc>http://localhost:1313/tags/deep/</loc>
     <lastmod>2026-09-27T20:47:09+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/hmm/</loc>
+    <lastmod>2026-09-27T20:47:09+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/life_updates/</loc>
     <lastmod>2026-09-27T20:47:09+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/media/</loc>
+    <lastmod>2026-09-27T20:47:09+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/misadventures/</loc>
     <lastmod>2026-09-27T20:47:09+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>
@@ -32,16 +38,57 @@
     <loc>http://localhost:1313/categories/tales/</loc>
     <lastmod>2026-09-27T20:47:09+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bizzare/</loc>
+    <loc>http://localhost:1313/bizarre/b_first_drink/</loc>
+    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/fun/</loc>
+    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bizarre/</loc>
+    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bizarre/b_samosa_runs/</loc>
+    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bizarre/b_pole_incident/</loc>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_actual_friends/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/rant/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_opinion_wars/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_personality_tests/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_seven_sins/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_single/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_empathy/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_listening/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_stoicism/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/media/</loc>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/status-update/</loc>
+    <loc>http://localhost:1313/media/</loc>
   </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
+    <loc>http://localhost:1313/posts/status-update/</loc>
   </url>
 </urlset>

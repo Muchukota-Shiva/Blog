@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>MuchuBlog</title>
+		<title>My Taste In Media on MuchuBlog</title>
 		<link>http://localhost:1313/media/</link>
-		<description>Recent content on MuchuBlog</description>
+		<description>Recent content in My Taste In Media on MuchuBlog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		

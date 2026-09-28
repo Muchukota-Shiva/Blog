@@ -18,7 +18,28 @@
 				<link>http://localhost:1313/posts/my-first-post/</link>
 				<pubDate>Sun, 27 Sep 2026 20:47:09 +0530</pubDate>
 				<guid>http://localhost:1313/posts/my-first-post/</guid>
-				<description>&lt;p&gt;This is my first Hugo post.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-heading&#34;&gt;A heading&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One item&lt;/li&gt;&#xA;&lt;li&gt;Another item&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;it is rather fun learning to do all this.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+				<description>&lt;p&gt;This is my first Hugo post.&lt;/p&gt;&#xA;&lt;p&gt;This is the one thing holding this code together so like yeah dont touch this lol&#xA;&lt;code&gt;insert smiling friends season 3 episode 1 clip&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;it is rather fun learning to do all this.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+			</item>
+			<item>
+				<title>First Time Drinking</title>
+				<link>http://localhost:1313/bizarre/b_first_drink/</link>
+				<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/bizarre/b_first_drink/</guid>
+				<description>&lt;h1 class=&#34;text-center&#34; id=&#34;context&#34;&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I grew up in quite a strict house. Stuff like no meeting friends after 8pm, only an hour of internet in a week during 9th and 10th class and all that shabang. So the idea of ME drinking ALCOHOL is blasphemous. Even more so considering that both of my parents do not drink daily, they also try not to drink during gatherings. So it is obvious that they taught me not to drink as well.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Weekly Run For Samosas</title>
+				<link>http://localhost:1313/bizarre/b_samosa_runs/</link>
+				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/bizarre/b_samosa_runs/</guid>
+				<description>&lt;p&gt;The pole incident took place in air force school Agra, these shenanigans are from there too.&lt;/p&gt;&#xA;&lt;p&gt;You might say what was up with the school, well it was even built weird. It was located on a one way road. Yeah the busses would drop us at the gate of the school which was on the T junction. Then when the school would be over the bus would come from the opposite direction so that they can directly pick us up and leave. So it was just one direction for the vehicles. On one side of the road was the primary school and on the other side was the secondary school. So there was a clear divide. Now for some backstory.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Pole Incident</title>
+				<link>http://localhost:1313/bizarre/b_pole_incident/</link>
+				<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/bizarre/b_pole_incident/</guid>
+				<description>&lt;p&gt;Okay so if this section is about my many bruh moments why not start with one of my oldest ones.&lt;/p&gt;&#xA;&lt;p&gt;So ever since I learned how to walk I have been running. I run A LOT. Even if I have to get something from the local store I will run and get it. And its not like I jog, I run. I will be back all sweaty and all but I will still pull my ass of the chair and have a good run out there. (and then i complain why I am skinny lols)&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

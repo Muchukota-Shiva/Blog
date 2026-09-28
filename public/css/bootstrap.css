@@ -646,11 +646,22 @@ a:focus {
 }
 
 img {
-  -webkit-filter: contrast(800%);
-     -moz-filter: contrast(1000%);
-      -ms-filter: contrast(800%);
-       -o-filter: contrast(800%);
-          filter: contrast(1000%);
+  -webkit-filter: none;
+     -moz-filter: none;
+      -ms-filter: none;
+       -o-filter: none;
+          filter: none;
+}
+
+/* Force all blog post images back to normal color/contrast */
+article img, 
+.content img, 
+.post img {
+    -webkit-filter: none !important;
+    -moz-filter: none !important;
+    -ms-filter: none !important;
+    -o-filter: none !important;
+    filter: none !important;
 }
 
 p {
