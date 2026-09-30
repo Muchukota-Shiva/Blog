@@ -1,7 +1,7 @@
 ---
 title: "Actual Friends And \"Kaam Ke Dost\""
 description: "Findings true friends has been hard in this generation, but figuring out how to judge people just enough to know what they are helps"
-date: 2022-08-02T00:00:00Z
+date: 2022-12-02T00:00:00Z
 draft: false
 tags: [Deep]
 categories: [Hmm, Rant]

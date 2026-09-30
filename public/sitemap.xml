@@ -53,14 +53,23 @@
     <loc>http://localhost:1313/bizarre/b_pole_incident/</loc>
     <lastmod>2026-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thoughts/t_actual_friends/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_life_since_innova/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/rant/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/thoughts/t_positive/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_fav_animals/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/t_actual_friends/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/t_opinion_wars/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>

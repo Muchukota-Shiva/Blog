@@ -4,7 +4,7 @@ description: "I love doing personality quizzes as I enjoy human psychology and t
 date: 2022-07-12T00:00:00Z
 draft: false
 tags: [Deep]
-categories: [Hmm, Rant]
+categories: [Hmm]
 ---
 `I might redo this page with my recent results soon`
 

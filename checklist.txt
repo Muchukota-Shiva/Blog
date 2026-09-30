@@ -1,0 +1,5 @@
+add all pages
+add custom quirks to certain pages
+add custom cursor and mouse effects
+add arg elements 
+add secrets

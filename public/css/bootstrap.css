@@ -236,6 +236,7 @@ body {
   line-height: 20px;
   color: #bbbbbb;
   background-color: #000084;
+  cursor: crosshair;
 }
 
 a {
@@ -881,7 +882,6 @@ li {
   padding-left: 0;
   margin-left: 0;
   line-height: 20px;
-  list-style: none;
 }
 
 ul.unstyled,
