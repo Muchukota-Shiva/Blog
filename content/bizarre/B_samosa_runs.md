@@ -7,7 +7,7 @@ categories: [Tales, Fun]
 tags: [Misadventures]
 ---
 
-The pole incident took place in air force school Agra, these shenanigans are from there too. 
+The pole incident took place in air force school Agra, these shenanigans are from there too. I did a lot of crazy stuff when I was younger XD
 
 You might say what was up with the school, well it was even built weird. It was located on a one way road. Yeah the busses would drop us at the gate of the school which was on the T junction. Then when the school would be over the bus would come from the opposite direction so that they can directly pick us up and leave. So it was just one direction for the vehicles. On one side of the road was the primary school and on the other side was the secondary school. So there was a clear divide. Now for some backstory.
 

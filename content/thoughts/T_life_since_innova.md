@@ -6,8 +6,10 @@ draft: false
 tags: [Deep]
 categories: [Hmm, Life_Updates]
 ---
-
 So yeah i barely update this place. This looks super corny going back and reading the stuff i had added here earlier.
+<marquee scrollamount="15" style="background: #00aa00; color: #000000; font-weight: bold; padding: 5px;">
+There have been newer updates in life not mentioned here. just give me a call 
+</marquee>
 
 # End Of Unemployment
 But yes for updates i guess as the title suggests, *I have a job now*. After months of feeling hollow worrying about placements career and all that i finally have a job.

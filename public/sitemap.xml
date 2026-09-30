@@ -47,14 +47,17 @@
     <loc>http://localhost:1313/bizarre/</loc>
     <lastmod>2026-09-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/thoughts/t_life_unpredictable/</loc>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thoughts/</loc>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/bizarre/b_samosa_runs/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bizarre/b_pole_incident/</loc>
     <lastmod>2026-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
-    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/t_life_since_innova/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
