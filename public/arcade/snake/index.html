@@ -74,31 +74,111 @@
 
 <div class="row-fluid navmargin">
     <div class="page-header">
-        <h1>The Pole Incident - Wed, Jun 24, 2026</h1>
+        <h1>SNAKE - Wed, Sep 30, 2026</h1>
     </div>
-    <p class="lead">comical bonk sound effect origins ?!?!</p>
-    <p>Okay so if this section is about my many bruh moments why not start with one of my oldest ones.</p>
-<p>So ever since I learned how to walk I have been running. I run A LOT. Even if I have to get something from the local store I will run and get it. And its not like I jog, I run. I will be back all sweaty and all but I will still pull my ass of the chair and have a good run out there. (and then i complain why I am skinny lols)</p>
-<p>So what else does a person run for, especially if they are young and are not stuck 24/7 to a gadget? Play! I was a very social person as kid. I always wanted to go out there and play something with someone and about 9/10 games kids would play involved running so yeah I was having a blast.</p>
-<p>Now to the incident. I am in 4th or 5th grade in TAFS Agra. Pretty ok school but had fun times there. So Agra is fucking hot (it was boiling back then I wonder what it is like now). So generally we were not allowed to go into the big field because it was too hot and you know kids would sometimes get dehydrated and blah blah blah. So instead we were asked to play in the small ground where the assemblies were held.</p>
-<p>It had a lot of trees surrounding it so it was fine to play there. But it had one thing nobody really cared about, the place wasn&rsquo;t meant to be played in :| remember I said there were a lot of trees? yeah. In addition to that there is a fucking pole in the middle of it for some reason. But who gon stop us kids from playing around?</p>
-<p>One day, last period of school. We were playing pakdam pakdai. Very fun. All kids in class were fast. Intense game. So it was my friends turn to catch people and of-course the guy decided to tail after me. I did what I do best and let him give me a good chase.</p>
-<p>Now the guy was persistent. I was getting tired, decided to glance back once to see how far he was to me. Quite close so I should probably speed up. But before I could do anything he screams &ldquo;Abe O aage dekh&rdquo;.</p>
-<div style="border: 1px solid #00ff66; background: #001100; padding: 15px; margin: 20px 0;">
-  <p style="color: #00ff66; margin-top: 0; font-weight: bold;">[DIAGNOSTIC REPORT: ACCIDENT IN SCHOOL GROUNDS #TAFS_AGRA]</p>
-  <ul style="color: #ffffff; margin-bottom: 0;">
-    <li><b>Terrain:</b> Bumpy prayer ground (Pole Obstacle)</li>
-    <li><b>Activity:</b> Pakdam Pakdai (Dhoom 4 stakes)</li>
-    <li><b>Collision Type:</b> Slapstick Cartoon</li>
-    <li><b>Medical Treatment:</b> 1x Chilled Sprite Bottle Applied to Head, 1x treatment at air force agra clinic</li>
-    <li><b>Public Spectacle Level:</b> More than Half the primary school watching</li>
-  </ul>
+    <p class="lead">One of the games of all time</p>
+    <div style="text-align: center; font-family: monospace;">
+  <p style="color: #fefe54;">&gt; INITIALIZING ARCADE MODULE...</p>
+  <p style="color: #bbbbbb; font-size: 13px;">Use Arrow Keys to steer. Don't hit the walls.</p>
+  <!-- Game Container -->
+  <div style="display: inline-block; border: 2px solid #00ff66; background: #001100; padding: 10px; margin-top: 10px;">
+    <canvas id="snakeGame" width="300" height="300" style="background: #000000; display: block; margin: 0 auto;"></canvas>
+    <p id="scoreBoard" style="color: #00ff66; margin-top: 10px; font-weight: bold;">SCORE: 0</p>
+  </div>
+  <div style="margin-top: 20px;">
+    <a href="/" style="color: #fefe54; text-decoration: underline;">&lt;Return?</a>
+  </div>
 </div>
-<p>I look to the front and then I don&rsquo;t remember what happened. The moment I gain consciousness I am being carried around by 4-5 people to the staff room so that the teacher can put a bottle of chilled sprite (they didn&rsquo;t have an ice pack) on my head. I was so taken back I didn&rsquo;t even stop to think why I was being carried. I turn to the side and about half the primary school is standing and watching. Bruh what.</p>
-<p>Turns out I crashed into the pole in the middle of the ground full cartoon style. I crashed so hard and went BONG. The pole made so much sound the kids thought class is over and rushed out of their classes but then saw some kid knocked out cold next to a pole lmao.</p>
-<p>So I suffered a major wound on my head, sprained my knee and both my ankles (hey I dont know how I crashed all I know it was pretty bad). I didnt go to school for two days and the following weekend. And after all this I had the talk with my mom about my speed and accident proneness.</p>
-<p>SO yeah that was one of my most iconic bruh moments. Next time whenever I bump into a table or stub my toe dont forget to say pole moment ;p</p>
+<script>
+  const canvas = document.getElementById("snakeGame");
+  const ctx = canvas.getContext("2d");
+  const scoreBoard = document.getElementById("scoreBoard");
 
+  const gridSize = 15;
+  const tileCount = canvas.width / gridSize;
+
+  let snake = [{ x: 10, y: 10 }];
+  let food = { x: 5, y: 5 };
+  let dx = 0;
+  let dy = 0;
+  let score = 0;
+  let gameInterval;
+
+  function resetGame() {
+    snake = [{ x: 10, y: 10 }];
+    score = 0;
+    scoreBoard.innerText = "SCORE: " + score;
+    dx = 0;
+    dy = 0;
+    spawnFood();
+  }
+
+  function spawnFood() {
+    food.x = Math.floor(Math.random() * tileCount);
+    food.y = Math.floor(Math.random() * tileCount);
+  }
+
+  function main() {
+    update();
+    if (isGameOver()) {
+      alert("CRITICAL ERROR: CRASHED INTO BOUNDARY. SCORE: " + score);
+      resetGame();
+      return;
+    }
+    draw();
+  }
+
+  function update() {
+    const head = { x: snake[0].x + dx, y: snake[0].y + dy };
+    snake.unshift(head);
+    if (head.x === food.x && head.y === food.y) {
+      score += 10;
+      scoreBoard.innerText = "SCORE: " + score;
+      spawnFood();
+    } else {
+      snake.pop();
+    }
+  }
+
+  function isGameOver() {
+    const head = snake[0];
+    if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount) {
+      return true;
+    }
+    for (let i = 1; i < snake.length; i++) {
+      if (head.x === snake[i].x && head.y === snake[i].y) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  function draw() {
+    // Clear screen
+    ctx.fillStyle = "#000000";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    // Draw Food (Retro Red/Magenta)
+    ctx.fillStyle = "#fe54fe";
+    ctx.fillRect(food.x * gridSize, food.y * gridSize, gridSize - 2, gridSize - 2);
+
+    // Draw Snake (Retro Green)
+    ctx.fillStyle = "#00ff66";
+    snake.forEach(part => {
+      ctx.fillRect(part.x * gridSize, part.y * gridSize, gridSize - 2, gridSize - 2);
+    });
+  }
+
+  document.addEventListener("keydown", e => {
+    if (e.key === "ArrowLeft" && dx === 0) { dx = -1; dy = 0; }
+    if (e.key === "ArrowRight" && dx === 0) { dx = 1; dy = 0; }
+    if (e.key === "ArrowUp" && dy === 0) { dx = 0; dy = -1; }
+    if (e.key === "ArrowDown" && dy === 0) { dx = 0; dy = 1; }
+  });
+
+  spawnFood();
+  gameInterval = setInterval(main, 100);
+</script>
     <h4><a href="http://localhost:1313/">Back to Home</a></h4>
 </div>
 

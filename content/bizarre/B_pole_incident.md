@@ -21,6 +21,17 @@ One day, last period of school. We were playing pakdam pakdai. Very fun. All kid
 
 Now the guy was persistent. I was getting tired, decided to glance back once to see how far he was to me. Quite close so I should probably speed up. But before I could do anything he screams "Abe O aage dekh". 
 
+<div style="border: 1px solid #00ff66; background: #001100; padding: 15px; margin: 20px 0;">
+  <p style="color: #00ff66; margin-top: 0; font-weight: bold;">[DIAGNOSTIC REPORT: ACCIDENT IN SCHOOL GROUNDS #TAFS_AGRA]</p>
+  <ul style="color: #ffffff; margin-bottom: 0;">
+    <li><b>Terrain:</b> Bumpy prayer ground (Pole Obstacle)</li>
+    <li><b>Activity:</b> Pakdam Pakdai (Dhoom 4 stakes)</li>
+    <li><b>Collision Type:</b> Slapstick Cartoon</li>
+    <li><b>Medical Treatment:</b> 1x Chilled Sprite Bottle Applied to Head, 1x treatment at air force agra clinic</li>
+    <li><b>Public Spectacle Level:</b> More than Half the primary school watching</li>
+  </ul>
+</div>
+
 I look to the front and then I don't remember what happened. The moment I gain consciousness I am being carried around by 4-5 people to the staff room so that the teacher can put a bottle of chilled sprite (they didn't have an ice pack) on my head. I was so taken back I didn't even stop to think why I was being carried. I turn to the side and about half the primary school is standing and watching. Bruh what. 
 
 Turns out I crashed into the pole in the middle of the ground full cartoon style. I crashed so hard and went BONG. The pole made so much sound the kids thought class is over and rushed out of their classes but then saw some kid knocked out cold next to a pole lmao. 

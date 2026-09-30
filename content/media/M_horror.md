@@ -4,7 +4,7 @@ description: "Spooky scary skeletons send shivers down your spine"
 date: 2025-10-01T00:00:00Z
 draft: false
 tags: [Media]
-categories: [Media, Fun]
+categories: [Media, Fun, Hmm]
 ---
 
 People who have known me before 9th grade would know that I WAS A MFING PUSSY when it came to horror. I would get scared of the smallest things. The doll my sister owns? yes, sleeping with lights off? yes, EVEN LOOKING AT THE IMAGE OF A GHOST WOULD KEEP ME UP AT NIGHT. 

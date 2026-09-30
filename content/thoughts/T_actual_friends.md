@@ -35,3 +35,9 @@ So yeah, I will work on getting more friends and make sure that everyone sees my
 
 update - looking back my intuition was just developing. I have improved my intuition quite a bit since. Now I am able to judge people far better to the point where I have been able to make predictions about other people's friendships and situations without even having known the person. 
 *Have I become the oracle ???* maybe I will make a separate blog for this one.
+
+
+
+<p align="center" style="color: #5555ff; font-size: 12px; margin-top: 30px;">
+  <i>[ End of transmission. Stop being a jerk and go call your friend. ]</i>
+</p>

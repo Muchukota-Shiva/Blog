@@ -13,3 +13,12 @@ Empathy, the ability to put oneself in another person's shoes. Sound's easy righ
 Trust me this a small practice but will help you out in many ways. One it makes you a better person. Trying to understand others and feel for them is a very nice thing. Next it will help you interact better with others. Lastly if not anything you will get to know your friend/the person you are talking to better.
 
 So try to think more before acting. Dont be quick to judge, see it from their eyes maybe it will change your perspective on things.
+
+<div style="border: 1px solid #00ff66; background: #001100; padding: 15px; margin: 20px 0;">
+  <p style="color: #00ff66; margin-top: 0; font-weight: bold;">[SYSTEM ADVISORY: PERSPECTIVE_SHIFT.EXE]</p>
+  <ul style="color: #bbbbbb; margin-bottom: 0; line-height: 1.6; list-style-type: none; padding-left: 0;">
+    <li>&gt; Removing 'I' from the equation...</li>
+    <li>&gt; Loading other person's viewpoint...</li>
+    <li>&gt; Result: <span style="color: #fefe54;">Less judgment, better connections.</span></li>
+  </ul>
+</div>

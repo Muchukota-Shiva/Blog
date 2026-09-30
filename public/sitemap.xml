@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-27T20:47:09+05:30</lastmod>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arcade/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arcade/crossy/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arcade/snake/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-09-27T20:47:09+05:30</lastmod>
@@ -62,6 +71,15 @@
     <loc>http://localhost:1313/thoughts/t_life_since_innova/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/media/m_horror/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/media/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/media/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/rant/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -70,6 +88,15 @@
   </url><url>
     <loc>http://localhost:1313/thoughts/t_fav_animals/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/media/m_animanga/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/media/m_videogames/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/media/m_memes/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/thoughts/t_actual_friends/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
@@ -98,8 +125,6 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/media/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/status-update/</loc>
   </url>

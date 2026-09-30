@@ -35,7 +35,7 @@ Soon, my friend came running to me "oye, wo aagaya". I left my lunchbox and ran 
 
 "tooooo, agle hafte fir?". We did this almost every week for the next month or two. The runner changing every now and then. I never got a chance to be the runner even though i was the fastest runner, as school just ended lmao. But i dont regret it. It was all fun anyways. 
 
-I feel shenanigans like this help shape your personality a lot. Makes you courageous and helps build a bond with people. Yeah its badmaashi but fuck that :p
+I feel <a href="/arcade/crossy/" style="color: inherit; text-decoration: underline;">shenanigans</a> like this help shape your personality a lot. Makes you courageous and helps build a bond with people. Yeah its badmaashi but fuck that :p
 
 
 p.s the canteen guy never snitched haha. He getting more business so I guess he played along. 

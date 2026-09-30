@@ -27,6 +27,10 @@ So this was my first time drinking. This was the 2nd semester, I was the editori
 
 Anyways I was in a good mood that day, and most of the folks in that core committee were from my campus hostel itself so I thought the responsibility would be shared with them for me to return safely. So I let them know this would be my first time drinking please like treat me well n shit and if i say stuff ignore it. I think shlok bhaiyya went all, "sala ye to daaru virgin hai isko to pilaenge" and the plan was set in motion ki aaj hoga full daaru panti. 
 
+<div style="border: 1px solid #aa0000; background: #000055; padding: 12px; margin-bottom: 25px; font-family: monospace; text-align: center;">
+  <p style="color: #ff5555; margin: 0; font-weight: bold;">[CRITICAL exception: ALCOHOL_TOLERANCE.EXE FAILED]</p>
+</div>
+
 A glass with some amount of whiskey (idk how much) and some coca cola was mixed and given to me. After eating our starters they all waited for me to take the first sip. I took a sip and went bleh but full crowd cheered haha. I kept sipping a lil and could feel myself going a lil tipsy. So instead of dialing it back I decided to walk around a lil and see what others are up to. Folks were dancing and i was getting groovy with them. I was even swearing at them without remorse XD. but soon something happened which changed my trajectory for the night. 
 
 Chahat came trotting along, yapping about some how she is proud that I drank and shit whatever. something something happens but she just hands me her glass of neat whiskey with ice. My dumbass went bottoms up on that shit. 
@@ -37,7 +41,17 @@ Besides this one major incident was that I somehow climbed one of the trees??? a
 
 The other issue was that i started posting on my story (shoutout if you one of the few people who saw it before it was deleted). One of the people there saw that I am recording something so she quickly came and deleted my story. Shashank, good friend, saw my story from hostel and called paridhi out of concern, and she also understood the situation. She quickly spoke to me and said shiva no more recording and all. My friends were trying to call me but she took my phone and was just telling the few people who saw my story before deletion that he is ok and will be brought home safely. 
 
-Besides this, it was about to be 8pm which was the curfew. Oh shit oh fuck. Most guys were getting somewhat sober but not me, i was as high as a kite. So a plan was made to do tripply on one of the bikes. One of the drinkers with good tolerance who was sober will drive, another semi-sober guy will be in the back, and then there will be me sandwiched in the middle. I was A-Ok in the start but as the guy started driving a lil fast I started panicking, and knowing bidholi has a hilly terrain i was getting more angsty. So i started screaming on top of my lungs ki like "arrre baba mala zaoede" and "bike roke warna mai tumhari gaand mai moot dunga" and stuff lol. imagine a bullet going 40-50 kmph at 8pm on a dark road with some lad screaming passing by. 
+Besides this, it was about to be 8pm which was the curfew. Oh shit oh fuck. Most guys were getting somewhat sober but not me, i was as high as a kite. So a plan was made to do tripply on one of the bikes. One of the drinkers with good tolerance who was sober will drive, another semi-sober guy will be in the back, and then there will be me sandwiched in the middle. I was A-Ok in the start but as the guy started driving a lil fast I started panicking, and knowing bidholi has a hilly terrain i was getting more angsty. So i started screaming on top of my lungs ki like "arrre baba mala zaoede" and "bike roke warna mai tumhari gaand mai moot dunga" and stuff lol. imagine a bullet going 40-50 kmph at 8pm on a dark road with some lad screaming passing by.
+
+<div style="border: 1px solid #00aa00; background: #001100; padding: 15px; margin: 20px 0;">
+  <p style="color: #00ff66; margin-top: 0; font-weight: bold;">[INCIDENT LOG #01: Alcohol has entered the body]</p>
+  <ul style="color: #bbbbbb; margin-bottom: 0;">
+    <li><b>Status:</b> Alcohol Virginity Taken</li>
+    <li><b>Elevation Achieved:</b> 1 Tree Climbed (Staff Intervention Required), cursed every member of my team, quirky dance moves, stories to tell</li>
+    <li><b>Threat Level:</b> Screaming freaky threats at 50 km/h, tickle monster</li>
+    <li><b>Warden Evading:</b> Successful (good boy card played successfully)</li>
+  </ul>
+</div>
 
 Now for one of the final hurdles. Getting back into the hostel. Our warden is quite strict, an ex-army guy. Thankfully my entire gang had already arrived at the college gate concerned. My ACM colleagues handed me over to my gang and lowkey said take care of him and stuff. Firstly my friends kinda had fun with me cuz this was the first time they saw me in a state like that.  A few friends were beyond disapointed that I of all people decided to drink so they didnt come till the gate but the rest who came were having the time of their life. Trivia - it was on this very moment that I changed my ring tone to kanye west's dark fantasy with the lines "can we get much higher, so high-igh". - next my friend were kinda giving me a shoulder and helping me reach hostel.
 

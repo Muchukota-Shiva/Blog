@@ -44,7 +44,8 @@ I now stand having decided that I will give it my all this attempt, wont try to 
 This is one case where I have finally made a decision myself. Even one of my relatives, who is a professional astrologist, suggested that my life will be full of ambiguities. If I try to do multiple things at once I will end up in the middle, if I pick one and work hard for it I will achieve what I have head out for.
 
 ---
+A step might look small but its better than not moving or worse going backwards
 
-Good times are ahead of us twin. A step might look small but its better than not moving or worse going backwards
-
-**If you keep reading the same chapter you will never finish the book**
+<p align="center" style="color: #00ff66; font-size: 13px; margin-top: 35px; font-family: monospace; background: #000000; padding: 10px; border: 1px solid #00ff66;">
+  <i>&gt; "If you keep reading the same chapter you will never finish the book."<br>&gt; End of file. Good times ahead, twin. </i>
+</p>
